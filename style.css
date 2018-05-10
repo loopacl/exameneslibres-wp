@@ -11,3 +11,11 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  exameneslibres-wp
 */
+#masthead .site-branding{
+	background: #fff url(../exameneslibres-wp/fondo_cabecera.jpg) no-repeat 0 0;
+	background-size: 100% auto;
+}
+#masthead .site-title a{
+	font-weight: bold;
+	color:navy;
+}
